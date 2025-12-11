@@ -105,16 +105,7 @@ b UK and Ireland markets, although smaller, still contribute meaningful and stea
 c. Regional buying patterns indicate that promotional campaigns could be tailored separately for each country.
 
 
-5. **Order Behavior & Quantity Patterns**
-
-a. Most orders fall within a moderate quantity range, suggesting customers typically purchase for personal consumption or small business use.
-
-b. Occasional large orders indicate bulk buying from corporate or wholesale customers.
-
-c. Sales performance is relatively consistent across coffee sizes (S, M, L), though larger sizes (L and XL) contribute significantly to total revenue.
-
-
-6. **Overall Business Insights**
+5. **Overall Business Insights**
 
 a. The business demonstrates strong operational consistency, supported by regular orders and repeat customers.
 

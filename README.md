@@ -63,7 +63,7 @@ Dashboard is fully interactive and auto-refreshes when underlying PivotTables up
 
 ## Dashboard : 
 
-![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard.png)
 
 ## ✅ Insights from the Coffee Sales Analysis
 

@@ -65,6 +65,8 @@ Dashboard is fully interactive and auto-refreshes when underlying PivotTables up
 
 ![Dashboard](Dashboard.png)
 
+---
+
 ## ✅ Insights from the Coffee Sales Analysis
 
 1. **Sales Performance Trends**
@@ -74,6 +76,8 @@ a. Sales show consistent fluctuations month-to-month, indicating seasonal buying
 b. Peak order volumes appear during the early and late months of the year, while mid-year months show comparatively lower activity.
 
 c. Despite fluctuations, overall sales remain stable, suggesting a loyal and recurring customer base.
+
+---
 
 
 2. **Product Insights**
@@ -87,6 +91,8 @@ c. Liberica has the lowest demand, indicating a niche customer segment or limite
 d. Profit margins vary by product type, with premium variants generating higher per-unit profitability.
 
 
+---
+
 3. **Customer Insights**
 
 a. A small group of customers contributes disproportionately to revenue, indicating a Pareto pattern (20% customers driving majority of sales).
@@ -94,6 +100,8 @@ a. A small group of customers contributes disproportionately to revenue, indicat
 b. The top customers are consistent high-value buyers, suggesting strong brand loyalty and stable repeat orders.
 
 c. Customer distribution shows a mix of business and individual buyers, each with different purchase frequencies and order sizes.
+
+---
 
 
 4. **Geography-Based Insights**
@@ -104,6 +112,8 @@ b UK and Ireland markets, although smaller, still contribute meaningful and stea
 
 c. Regional buying patterns indicate that promotional campaigns could be tailored separately for each country.
 
+
+---
 
 5. **Overall Business Insights**
 
